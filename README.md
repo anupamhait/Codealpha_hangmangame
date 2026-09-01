@@ -1,8 +1,6 @@
-# Codealpha\_hangmangame
+# Codealpha_hangmangame
 
-it is simple text based hangman game in which the player guess a word at a time
-
-
+A simple text-based Hangman game where the player guesses a word one letter at a time.
 
 Simplified Scope:
 
@@ -13,4 +11,3 @@ Simplified Scope:
 ● Basic console input/output — no graphics or audio.
 
 Key Concepts Used: random, while loop, if-else, strings, lists.
-
