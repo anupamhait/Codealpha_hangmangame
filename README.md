@@ -1,2 +1,16 @@
-# Codealpha_hangmangame
+# Codealpha\_hangmangame
+
+it is simple text based hangman game in which the player guess a word at a time
+
+
+
+Simplified Scope:
+
+● Use a small list of 5 predefined words (no need to use a file or API).
+
+● Limit incorrect guesses to 6.
+
+● Basic console input/output — no graphics or audio.
+
+Key Concepts Used: random, while loop, if-else, strings, lists.
 
